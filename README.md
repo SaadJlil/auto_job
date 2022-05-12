@@ -13,4 +13,4 @@ These are the required steps to make the script work:
 . Run the script.
 
 
-This project was made for fun, meaning nothing is optimized or scalable. If you're interested in making the script better (generalize the pixel inputs on all types of screens, ask for email info and encrypt them or optimize the program etc...) , please don't hesitate to send me a pull request or an email (sailjlad@gmail.com), I'll be glad to take a look.
+This project was made for fun, meaning nothing is optimized or scalable. If you're interested in making the script better (generalize the pixel inputs on all types of screens, ask for email info and encrypt them or optimize the program or add comments etc...) , please don't hesitate to send me a pull request or an email (sailjlad@gmail.com), I'll be glad to take a look.
