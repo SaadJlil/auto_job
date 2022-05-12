@@ -2,5 +2,7 @@ This is a personal project that I would like to share with the PEOPLE. It applie
 
 These are the required steps to make the script work:
 
-. Type the type of company you want to apply to on google. Example "Bars Barcelona".
+. Type the type of company you want to apply to on google. Example "Bars Barcelona":
+
+![bars](https://user-images.githubusercontent.com/81829990/168147569-6e353ace-053b-494f-81c4-0a0ef93d8b60.png)
 
